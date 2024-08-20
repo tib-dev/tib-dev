@@ -3,7 +3,7 @@
 👨‍💻 Web Developer sharing my journey and learnings in tech.
 
 🏆 **Achievements:**
-- First Prize in [Huawei ICT 2022/2023 Competition (National Final)](https://codeteches.netlify.app/)
+- First Prize in Huawei ICT 2022/2023 Competition (National Final)
 - Third Prize in Huawei ICT 2022/2023 Competition (Global Final)
 
 📜 **Certification:**
