@@ -39,5 +39,8 @@
 ## 📊 GitHub Stats:
 ![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibebu&show_icons=true&theme=radical)
 
+## 📊 Most Used Languages:
+![Top Languages](https://camo.githubusercontent.com/3992dec6a15956c6fc0c5aeb7ea04e91c87fb4f6effa92626d6051e58a117cd5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e616e6379746573267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374)
+
 ## 🏆 GitHub Trophies:
 ![Tibebu's GitHub trophies](https://github-profile-trophy.vercel.app/?username=tibebu&theme=onedark)
