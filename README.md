@@ -8,12 +8,12 @@
 
 💬 Ask me about my projects, or if you need a study buddy for coding challenges!
 
-📫 How to reach me: [Email](mailto:email@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
+📫 How to reach me: [Email](mailto:wise.tibec@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tibebu-kaleb-185aa0292/).
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tibebu-kaleb-185aa0292/)
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
