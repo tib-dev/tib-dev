@@ -39,5 +39,8 @@
 ## 📊 GitHub Stats:
 ![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibebu&show_icons=true&theme=radical)
 
+## 🗣️ Most Used Languages:
+![Tibebu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibebu&layout=compact&theme=radical)
+
 ## 🏆 GitHub Trophies:
 ![Tibebu's GitHub trophies](https://github-profile-trophy.vercel.app/?username=tibebu&theme=onedark)
