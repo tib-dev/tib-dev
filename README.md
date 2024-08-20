@@ -3,8 +3,11 @@
 👨‍💻 Web Developer sharing my journey and learnings in tech.
 
 🏆 **Achievements:**
-- First Prize in Huawei ICT 2022/2023 Competition (National Final)
+- First Prize in [Huawei ICT 2022/2023 Competition (National Final)](https://codeteches.netlify.app/)
 - Third Prize in Huawei ICT 2022/2023 Competition (Global Final)
+
+📜 **Certification:**
+- Certified DataCom Engineer
 
 🔭 I’m currently working on improving my skills in full-stack development.
 
