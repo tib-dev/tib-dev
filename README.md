@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tibebu
 
-👨‍💻 Web Developer sharing my journey and learnings in tech.
+👨‍💻 Full-Stack developer sharing my journey and learnings in tech.
 
 🏆 **Achievements:**
 - First Prize in Huawei ICT 2022/2023 Competition (National Final)
