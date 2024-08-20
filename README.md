@@ -6,9 +6,6 @@
 - First Prize in Huawei ICT 2022/2023 Competition (National Final)
 - Third Prize in Huawei ICT 2022/2023 Competition (Global Final)
 
-📜 **Certification:**
-- Certified DataCom Engineer
-
 🔭 I’m currently working on improving my skills in full-stack development.
 
 👯 I’m looking to collaborate on open-source projects that focus on web development.
@@ -16,8 +13,6 @@
 💬 Ask me about my projects, or if you need a study buddy for coding challenges!
 
 📫 How to reach me: [Email](mailto:wise.tibec@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tibebu-kaleb-185aa0292/).
-
-🌐 **Website:** [My Portfolio](https://codeteches.netlify.app/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) 
@@ -35,12 +30,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibebu&show_icons=true&theme=radical)
-
-## 🗣️ Most Used Languages:
-![Tibebu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibebu&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies:
 ![Tibebu's GitHub trophies](https://github-profile-trophy.vercel.app/?username=tibebu&theme=onedark)
