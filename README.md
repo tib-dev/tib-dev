@@ -40,7 +40,7 @@
 ![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies:
-![Tibebu's GitHub trophies](https://github-profile-trophy.vercel.app/?username=tibebu&theme=onedark)
+[![Tibebu's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tib-dev&theme=radical&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
