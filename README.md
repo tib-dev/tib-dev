@@ -37,7 +37,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibebu&show_icons=true&theme=radical)
+![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact)
