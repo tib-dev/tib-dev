@@ -12,7 +12,7 @@
 
 💬 Ask me about my projects, or if you need a study buddy for coding challenges!
 
-📫 How to reach me: [Email](mailto:wise.tibec@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tibebu-kaleb-185aa0292/).
+📫 How to reach me: [Email](mailto:wise.tibec@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tibeb-dev).
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) 
