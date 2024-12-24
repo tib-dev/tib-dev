@@ -19,7 +19,7 @@
 
 ## 🚀 Featured Projects:
 - [Amazon Clone](https://github.com/your-repo-link): A full-stack e-commerce web application using React, Node.js, and Stripe.
-- [Education Management System](https://github.com/your-repo-link): A high-performance platform for managing school operations.
+- [Education Management System](https://ems-qsofti.netlify.app/): A high-performance platform for managing school operations.
 - [LinkedIn Automation Tool](https://github.com/your-repo-link): A Node.js tool for automated post publishing and commenting.
 
 ---
