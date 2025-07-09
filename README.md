@@ -8,16 +8,16 @@
 
 Welcome to my GitHub! I'm a passionate developer and certified data communication engineer with a love for building impactful software and secure systems.
 
-- 🎓 Certified in Networking and Cybersecurity
-- 🏗️ Focused on full-stack development and backend architecture
-- 🤝 Always open to collaborating on open-source or freelance web projects
-- 💬 Ask me about my projects or let’s team up for coding challenges!
+- 🎓 Certified in Networking and Cybersecurity  
+- 🏗️ Focused on full-stack development and backend architecture  
+- 🤝 Open to collaborating on open-source or freelance web projects  
+- 💬 Ask me about my projects or let’s team up for coding challenges!  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** – Huawei ICT 2022/23 National Final (Ethiopia)
+- 🥇 **1st Place** – Huawei ICT 2022/23 National Final (Ethiopia)  
 - 🥉 **3rd Place** – Huawei ICT 2022/23 Global Final  
 *A global competition testing cutting-edge IT & networking skills.*
 
@@ -68,9 +68,9 @@ Welcome to my GitHub! I'm a passionate developer and certified data communicatio
 
 ## 📊 GitHub Stats
 
-![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical)
+![Tibebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
@@ -85,8 +85,8 @@ Welcome to my GitHub! I'm a passionate developer and certified data communicatio
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tibebukaleb.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wise.tibec@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tibeb-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server-code)
 
 ---
 
