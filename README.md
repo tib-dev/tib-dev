@@ -84,28 +84,14 @@ _A global competition evaluating advanced IT and networking expertise._
 
 ## 📊 GitHub Insights
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+### 🌟 Stats & Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&hide_rank=false&custom_title=Tibebu%20Kaleb%20%7C%20GitHub%20Stats)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&hide_rank=false&custom_title=Tibebu%20Kaleb%20%7C%20GitHub%20Stats" 
-    alt="GitHub Stats" 
-    height="180" 
-  />
+### 📌 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&langs_count=8&theme=radical)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&langs_count=8&theme=radical" 
-    alt="Top Languages" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak" 
-    height="180" 
-  />
-
-</div>
-
+### 🔥 Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
