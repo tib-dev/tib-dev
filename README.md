@@ -2,15 +2,17 @@
 
 🎯 **Full-Stack Developer | Cybersecurity Enthusiast | Huawei ICT Global Finalist**
 
+![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet&style=for-the-badge)
+
 ---
 
 ## 🧭 About Me
 
-Welcome to my GitHub! I'm a passionate software engineer and certified data communication expert, specializing in building impactful, secure, and scalable systems.
+Welcome to my GitHub! I’m a passionate **Software Engineer** and **Certified Data Communication Expert**, focused on building secure, scalable, and impactful systems.
 
-- 🎓 Certified in Networking and Cybersecurity  
+- 🎓 Certified in Networking & Cybersecurity  
 - 🧩 Full-stack focus with strong backend architecture skills  
-- 🤝 Open to collaborating on OSS, freelance, or hackathons  
+- 🤝 Open to collaborations, OSS, or hackathon projects  
 - 💬 Let’s connect for projects, mentoring, or tech discussions!
 
 ---
@@ -19,22 +21,22 @@ Welcome to my GitHub! I'm a passionate software engineer and certified data comm
 
 - 🥇 **1st Place** – Huawei ICT 2022/23 National Final (Ethiopia)  
 - 🥉 **3rd Place** – Huawei ICT 2022/23 Global Final  
-_A global competition evaluating advanced IT and networking expertise._
+_A global competition assessing advanced IT and networking expertise._
 
 ---
 
 ## 🚀 Featured Projects
 
 - 🛒 [**Amazon Clone**](https://github.com/tib-dev/amazon-clone)  
-  *E-commerce platform using React, Node.js, Express, and Stripe.*
+  *E-commerce platform built with React, Node.js, Express, and Stripe.*
 
 - 🎓 [**Education Management System**](https://ems-qsofti.netlify.app)  
-  *Manages students, teachers, payments, and attendance with powerful admin features.*
+  *Comprehensive platform for managing students, teachers, attendance, and payments.*
 
 - 🤖 [**LinkedIn Automation Tool**](https://github.com/tib-dev/linkedin-automation)  
-  *Automates interactions with Puppeteer for job seekers and marketers.*
+  *Automates interactions using Puppeteer for recruiters and job seekers.*
 
-> 🔗 View more on [my portfolio](https://tibebukaleb.netlify.app)
+> 🔗 Explore more on [my portfolio](https://tibebukaleb.netlify.app)
 
 ---
 
@@ -48,8 +50,8 @@ _A global competition evaluating advanced IT and networking expertise._
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -85,10 +87,10 @@ _A global competition evaluating advanced IT and networking expertise._
 ## 📊 GitHub Insights
 
 ### 🌟 Stats & Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&hide_rank=false&custom_title=Tibebu%20Kaleb%20%7C%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
 
 ### 📌 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&langs_count=8&theme=radical&cache_seconds=86400)
 
 ### 🔥 Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
@@ -111,5 +113,5 @@ _A global competition evaluating advanced IT and networking expertise._
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+> _“Code is like humor. When you have to explain it, it’s bad.”_  
 > — **Cory House**
