@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tibebu Kaleb
 
-🎯 **Full-Stack Developer | Cybersecurity Enthusiast | Huawei ICT Global Finalist**
+🎯 **Full-Stack Developer | AI/ML Enthusiast | Huawei ICT Global Finalist**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet&style=for-the-badge)
 
