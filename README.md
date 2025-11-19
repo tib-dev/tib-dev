@@ -8,35 +8,37 @@
 
 ## 🧭 About Me
 
-Welcome to my GitHub! I’m a passionate **Software Engineer** and **Certified Data Communication Expert**, focused on building secure, scalable, and impactful systems.
+Welcome to my GitHub. I’m a dedicated **Software Engineer** with experience in full-stack development, cloud technologies, and secure system design. I enjoy building practical, scalable products and exploring ways AI can solve real problems.
 
-- 🎓 Certified in Networking & Cybersecurity  
-- 🧩 Full-stack focus with strong backend architecture skills  
-- 🤝 Open to collaborations, OSS, or hackathon projects  
-- 💬 Let’s connect for projects, mentoring, or tech discussions!
+- 🎓 Certified in Networking, Cybersecurity & Data Communication  
+- 🧩 Strong backend architecture and API design focus  
+- 🤝 Open to collaborations, OSS contributions, and hackathon teams  
+- 💬 Always happy to connect on projects, ideas, and mentoring
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** – Huawei ICT 2022/23 National Final (Ethiopia)  
-- 🥉 **3rd Place** – Huawei ICT 2022/23 Global Final  
-_A global competition assessing advanced IT and networking expertise._
+- 🥇 **1st Place** – Huawei ICT Competition 2022/23 (National, Ethiopia)  
+- 🥉 **3rd Place** – Huawei ICT Competition 2022/23 (Global Final)  
+A global challenge that tested advanced networking, cloud, and IT skills.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛒 [**Amazon Clone**](https://github.com/tib-dev/amazon-clone)  
-  *E-commerce platform built with React, Node.js, Express, and Stripe.*
+- 🛒 **Amazon Clone** — React, Node.js, Express, Stripe  
+  https://github.com/tib-dev/amazon-clone  
 
-- 🎓 [**Education Management System**](https://ems-qsofti.netlify.app)  
-  *Comprehensive platform for managing students, teachers, attendance, and payments.*
+- 🎓 **Education Management System**  
+  A complete platform for managing students, teachers, attendance, and payments.  
+  https://ems-qsofti.netlify.app  
 
-- 🤖 [**LinkedIn Automation Tool**](https://github.com/tib-dev/linkedin-automation)  
-  *Automates interactions using Puppeteer for recruiters and job seekers.*
+- 🤖 **LinkedIn Automation Tool** — Puppeteer  
+  Automates routine tasks for job seekers and recruiters.  
+  https://github.com/tib-dev/linkedin-automation  
 
-> 🔗 Explore more on [my portfolio](https://tibebukaleb.netlify.app)
+More projects on my portfolio: https://tibebukaleb.netlify.app
 
 ---
 
@@ -84,22 +86,27 @@ _A global competition assessing advanced IT and networking expertise._
 
 ---
 
-## 📊 GitHub Insights
+## 📈 WakaTime (Coding Activity)
 
-### 🌟 Stats & Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
-
-### 📌 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&langs_count=8&theme=radical&cache_seconds=86400)
-
-### 🔥 Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tib-dev&theme=radical&layout=compact&cache_seconds=86400)
 
 ---
 
-## 🏅 GitHub Trophies
+## 📊 GitHub Insights
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tib-dev&theme=radical&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+### 🌟 Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
+
+### 📌 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&langs_count=8&theme=radical&cache_seconds=86400)
+
+### 🔥 Streaks  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical)
+
+---
+
+## 🏅 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tib-dev&theme=radical&no-bg=true&no-frame=true&margin-w=15)
 
 ---
 
@@ -113,5 +120,4 @@ _A global competition assessing advanced IT and networking expertise._
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
-> — **Cory House**
+> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
