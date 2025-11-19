@@ -1,22 +1,18 @@
-# 👋 Hi, I'm Tibebu Kaleb  
-🎯 Full-Stack Developer • AI/ML Enthusiast
+# 👋 Hi, I'm Tibebu Kaleb (Tibeb)  
+🎯 Full-Stack Developer • AI/ML Enthusiast  
 
 ![WakaTime](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet)
 
-
-
-
-
 ---
 
 ## 🧭 About Me  
-I’m a Software Engineer who enjoys building secure, scalable systems and exploring how AI can be used in real products. I work across frontend, backend, and cloud, and I’m always open to collaboration.
+I’m a Software Engineer who enjoys building secure, scalable systems and exploring how AI can solve real problems. I work across frontend, backend, and cloud, and I’m always open to collaboration.
 
 - Certified in Networking, Cybersecurity, and Data Communication  
-- Strong focus on backend architecture and API design  
+- Strong focus on backend architecture, API design, and system security  
 - Open to OSS, side projects, and hackathon teams  
-- Happy to connect on tech, ideas, or mentoring  
+- Enjoy helping others with ideas, debugging, and mentoring  
 
 ---
 
@@ -31,14 +27,14 @@ I’m a Software Engineer who enjoys building secure, scalable systems and explo
   https://github.com/tib-dev/amazon-clone  
 
 - **Education Management System**  
-  Full platform for managing students, teachers, attendance, and payments.  
+  Web platform for managing students, teachers, attendance, and payments.  
   https://ems-qsofti.netlify.app  
 
 - **LinkedIn Automation Tool** — Puppeteer  
-  Automates routine LinkedIn tasks for job seekers and recruiters.  
+  Automates key tasks for job seekers and recruiters.  
   https://github.com/tib-dev/linkedin-automation  
 
-More at: https://tibebukaleb.netlify.app
+More projects: https://tibebukaleb.netlify.app
 
 ---
 
@@ -67,7 +63,6 @@ Git • VS Code
 
 ---
 
-
 ## 📊 GitHub Insights  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&langs_count=8&theme=radical&cache_seconds=86400)  
@@ -81,10 +76,8 @@ Git • VS Code
 ---
 
 ## 🌐 Connect  
-[Website](https://tibebukaleb.netlify.app)  [Email](mailto:wise.tibec@gmail.com)  [LinkedIn](https://www.linkedin.com/in/tibeb-dev)  
-[Instagram](https://instagram.com/wise.tibec)  [Discord](https://discord.gg/your-server-code)
-
-
+[Website](https://tibebukaleb.netlify.app) • [Email](mailto:wise.tibec@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tibeb-dev)  
+[Instagram](https://instagram.com/wise.tibec) • [Discord](https://discord.gg/your-server-code)
 
 ---
 
