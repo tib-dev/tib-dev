@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Tibebu Kaleb  
 🎯 Full-Stack Developer • AI/ML Enthusiast • Huawei ICT Global Finalist
 
-## 📈 WakaTime  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tib-dev&theme=radical&layout=compact&cache_seconds=86400) ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet&style=for-the-badge)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tibeb&theme=radical&layout=compact&cache_seconds=86400) ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet&style=for-the-badge)
 
 ---
 
