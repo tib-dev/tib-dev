@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tibebu Kaleb  
-🎯 Full-Stack Developer • AI/ML Enthusiast • Huawei ICT Global Finalist
+🎯 Full-Stack Developer • AI/ML Enthusiast
 
 ![WakaTime](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet)
@@ -67,10 +67,6 @@ Git • VS Code
 
 ---
 
-## 📈 WakaTime  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tib-dev&theme=radical&layout=compact&cache_seconds=86400)
-
----
 
 ## 📊 GitHub Insights  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)  
@@ -85,11 +81,10 @@ Git • VS Code
 ---
 
 ## 🌐 Connect  
-[Website](https://tibebukaleb.netlify.app)  
-[Email](mailto:wise.tibec@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/tibeb-dev)  
-[Instagram](https://instagram.com/wise.tibec)  
-[Discord](https://discord.gg/your-server-code)
+[Website](https://tibebukaleb.netlify.app)  [Email](mailto:wise.tibec@gmail.com)  [LinkedIn](https://www.linkedin.com/in/tibeb-dev)  
+[Instagram](https://instagram.com/wise.tibec)  [Discord](https://discord.gg/your-server-code)
+
+
 
 ---
 
