@@ -127,8 +127,7 @@ More projects → https://tibebukaleb.netlify.app
 ---
 
 ## 📊 GitHub Insights  
-## 📊 GitHub Insights  
-![Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&v=1)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical)
 
