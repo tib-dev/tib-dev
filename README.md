@@ -1,141 +1,175 @@
-# 👋 Hi, I'm Tibeb
-🎯 Full-Stack Developer • AI/ML Enthusiast
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tibeb — Profile Header & README (Animated + Theme)</title>
+  <style>
+    :root{
+      --bg: #0f1724;
+      --card: #0b1220;
+      --text: #e6eef8;
+      --muted: #94a3b8;
+      --accent1: #06b6d4;
+      --accent2: #7c3aed;
+      --glass: rgba(255,255,255,0.04);
+    }
+    .light{
+      --bg: #f7fafc;
+      --card: #ffffff;
+      --text: #0f1724;
+      --muted: #475569;
+      --accent1: #0ea5a4;
+      --accent2: #7c3aed;
+      --glass: rgba(2,6,23,0.04);
+    }
+    html,body{height:100%;margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial; background:var(--bg); color:var(--text);}
+    .container{max-width:980px;margin:36px auto;padding:28px;border-radius:16px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);box-shadow:0 6px 30px rgba(2,6,23,0.6);}
 
-![WakaTime](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/tib-dev?style=flat&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/tib-dev?style=flat&color=yellow)
-![Status](https://img.shields.io/badge/Developer-Active-brightgreen)
-![Location](https://img.shields.io/badge/From-Ethiopia-red)
+    /* Header */
+    .header{display:flex;align-items:center;gap:18px}
+    .logo-wrap{width:140px;height:140px;flex:0 0 140px;border-radius:14px;background:var(--glass);display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}
+    .logo-svg{width:120px;height:120px}
 
----
+    /* Animated SVG text */
+    .title-block{flex:1}
+    .main-title{font-size:28px;margin:0 0 6px 0;letter-spacing:-0.5px}
+    .subtitle{margin:0;color:var(--muted)}
 
-## 🧭 About Me
-I’m a Software Engineer who enjoys building secure and scalable systems. I work across frontend, backend, cloud, and AI.
-Always happy to join cool projects, contribute to OSS, or help people stuck on tech problems.
+    /* Animated background shapes */
+    .shape{position:absolute;filter:blur(30px);opacity:0.45;mix-blend-mode:screen}
+    .shape.s1{width:220px;height:220px;right:-60px;top:-40px;background:linear-gradient(45deg,var(--accent1),var(--accent2));border-radius:50%}
+    .shape.s2{width:140px;height:140px;left:-40px;bottom:-40px;background:linear-gradient(120deg,var(--accent2),var(--accent1));border-radius:40%}
 
-* Certified in Networking, Cybersecurity, and Data Communication
-* Passionate about backend architecture and security
-* Strong focus on product thinking and clean engineering
-* Open to side projects, hackathon collaborations, and AI tools
+    /* Controls */
+    .controls{display:flex;gap:8px;align-items:center;margin-top:12px}
+    .btn{background:transparent;border:1px solid rgba(255,255,255,0.06);padding:8px 12px;border-radius:10px;color:var(--text);cursor:pointer}
+    .btn.secondary{border-color:rgba(255,255,255,0.04);opacity:0.9}
 
----
+    /* README content */
+    .content{margin-top:22px;padding:18px;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.01),transparent)}
+    h2{color:var(--text)}
+    a{color:var(--accent1)}
 
-## 🏆 Achievements
+    /* Responsive */
+    @media (max-width:640px){.header{flex-direction:column;align-items:flex-start}.logo-wrap{width:96px;height:96px}.main-title{font-size:20px}}
 
-![Award](https://img.shields.io/badge/Huawei_ICT_Competition-Winner-gold)
-![Rank](https://img.shields.io/badge/National-1st_Place-blue)
-![Rank](https://img.shields.io/badge/Global-3rd_Place-purple)
+    /* small animation for SVG gradient */
+    @keyframes slide{from{transform:translateX(-10%)}to{transform:translateX(10%)}}
+    .grad-anim{animation:slide 5s ease-in-out infinite alternate}
+  </style>
+</head>
+<body>
+  <div class="container" id="page">
+    <div style="position:relative;overflow:visible">
+      <div class="shape s1" aria-hidden="true"></div>
+      <div class="shape s2" aria-hidden="true"></div>
+    </div>
 
-* 🥇 **1st Place** – Huawei ICT Competition (National)
-* 🥉 **3rd Place** – Huawei ICT Competition (Global Final)
+    <header class="header">
+      <!-- Animated SVG logo / header. Save this block as `header.svg` if you want to reuse it separately. -->
+      <div class="logo-wrap" aria-hidden="true">
+        <svg class="logo-svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tibeb logo">
+          <defs>
+            <linearGradient id="g1" x1="0" x2="1">
+              <stop offset="0%" stop-color="#06b6d4" />
+              <stop offset="50%" stop-color="#7c3aed" />
+              <stop offset="100%" stop-color="#f97316" />
+            </linearGradient>
+            <filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
+              <feGaussianBlur stdDeviation="6" result="b" />
+              <feComposite in="SourceGraphic" in2="b" operator="over"/>
+            </filter>
+            <mask id="m1">
+              <rect width="100%" height="100%" fill="white" />
+              <circle cx="60" cy="60" r="40" fill="black" />
+            </mask>
+          </defs>
 
----
+          <!-- animated ring -->
+          <g transform="translate(100,100)">
+            <circle r="54" fill="none" stroke="url(#g1)" stroke-width="8" stroke-linecap="round" stroke-dasharray="10 6" stroke-dashoffset="0">
+              <animate attributeName="stroke-dashoffset" values="0;40;0" dur="6s" repeatCount="indefinite" />
+            </circle>
 
-## 🚀 Featured Projects
+            <!-- stylized initials: T -->
+            <g transform="translate(-24,-32) scale(1.2)" fill="url(#g1)">
+              <rect x="8" y="4" width="10" height="44" rx="2">
+                <animate attributeName="y" values="6;2;6" dur="3s" repeatCount="indefinite" />
+              </rect>
+              <rect x="8" y="4" width="34" height="10" rx="3"/>
+            </g>
 
-![Project Badge](https://img.shields.io/badge/Project-Amazon_Clone-black)
+            <!-- small pulsing dot -->
+            <circle cx="54" cy="-54" r="6" fill="#fff">
+              <animate attributeName="r" values="6;10;6" dur="2.5s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.85;0.25;0.85" dur="2.5s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+        </svg>
+      </div>
 
-### **Amazon Clone**
-React • Node.js • Express • Stripe
-🔗 https://github.com/tib-dev/amazon-clone
+      <div class="title-block">
+        <h1 class="main-title">Hi, I’m <strong>Tibeb</strong> — Full‑Stack Developer & AI/ML Enthusiast</h1>
+        <p class="subtitle">Building secure, scalable systems. Cloud, backend architecture, and applied ML.</p>
 
----
+        <div class="controls">
+          <button class="btn" id="toggleTheme" title="Toggle dark / light">Toggle theme</button>
+          <a class="btn secondary" href="#readme" role="button">View README</a>
+        </div>
+      </div>
+    </header>
 
-![Project Badge](https://img.shields.io/badge/Project-Education_Management_System-green)
+    <!-- README content translated into HTML for the demo. Keep original README.md in your repo; to embed the header in README.md: add an image link to `header.svg` in the repository (raw URL). -->
+    <main class="content" id="readme">
+      <h2>About</h2>
+      <p>I’m a software engineer who enjoys building reliable, secure, and scalable systems. I work across the stack—from frontend to backend, cloud, and AI—and I like solving real problems with clean and thoughtful engineering.</p>
 
-### **Education Management System**
-A modern platform for managing students, teachers, payments, and attendance.
-🔗 https://ems-qsofti.netlify.app
+      <h3>Highlights</h3>
+      <ul>
+        <li>Certified in Networking, Cybersecurity, and Data Communication</li>
+        <li>Strong interest in backend architecture, security, and distributed systems</li>
+        <li>Active in hackathons, OSS contributions, and collaborative side projects</li>
+      </ul>
 
----
+      <h3>Featured Projects</h3>
+      <ol>
+        <li><strong>Amazon Clone</strong> — React · Node.js · Express · Stripe — <a href="https://github.com/tib-dev/amazon-clone">github.com/tib-dev/amazon-clone</a></li>
+        <li><strong>Education Management System</strong> — <a href="https://ems-qsofti.netlify.app">ems-qsofti.netlify.app</a></li>
+        <li><strong>LinkedIn Automation Tool</strong> — <a href="https://github.com/tib-dev/linkedin-automation">github.com/tib-dev/linkedin-automation</a></li>
+      </ol>
 
-![Project Badge](https://img.shields.io/badge/Project-LinkedIn_Automation-blue)
+      <h3>Tech Stack</h3>
+      <p>Cloud & DevOps: AWS · Docker<br/>Frontend: React · Next.js · Tailwind · MUI<br/>Backend: Node.js · Express · Prisma<br/>Databases: PostgreSQL · MySQL · MongoDB</p>
 
-### **LinkedIn Automation Tool**
-Automates messaging, job searches, and profile interaction using Puppeteer.
-🔗 https://github.com/tib-dev/linkedin-automation
+      <h3>Contact</h3>
+      <p>Website: <a href="https://tibebukaleb.netlify.app">tibebukaleb.netlify.app</a><br/>Email: <a href="mailto:wise.tibec@gmail.com">wise.tibec@gmail.com</a></p>
 
-More projects → https://tibebukaleb.netlify.app
+      <hr/>
+      <p style="color:var(--muted);font-size:13px">Tip: To embed the animated header in your GitHub README, add the file <code>header.svg</code> to your repo and reference it like this in <code>README.md</code>:</p>
+      <pre style="background:rgba(255,255,255,0.02);padding:12px;border-radius:8px;overflow:auto;color:var(--muted)"><code>&lt;img src="./header.svg" alt="Tibeb — Full-Stack Developer"&gt;</code></pre>
 
----
+      <p style="color:var(--muted);font-size:13px">If you use GitHub Pages or a personal site, the header will render the SVG animation and the dark/light toggle will work when included in an HTML page. GitHub README.md files do not run JavaScript, so the toggle is only available in pages that accept HTML/JS (GitHub Pages, your personal website, or a dedicated demo file).</p>
+    </main>
 
-## 💻 Tech Stack
+  </div>
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
----
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📦 State Management
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-CA4245?style=for-the-badge&logo=redux&logoColor=white)
-
----
-
-### 💬 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical)
-
----
-
-## 🏅 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tib-dev&theme=radical&no-bg=true&no-frame=true&margin-w=15)
-
----
-
-## 🌐 Connect
-
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=netlify&logoColor=white)](https://tibebukaleb.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wise.tibec@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tibeb-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wise.tibec)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server-code)
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+  <script>
+    // theme toggle (persist in localStorage)
+    const page = document.getElementById('page');
+    const toggle = document.getElementById('toggleTheme');
+    function applyTheme(isLight){
+      if(isLight) document.documentElement.classList.add('light');
+      else document.documentElement.classList.remove('light');
+      localStorage.setItem('tib_theme_light', isLight? '1':'0');
+    }
+    toggle.addEventListener('click', ()=>{
+      const now = document.documentElement.classList.toggle('light');
+      applyTheme(now);
+    });
+    // initialize
+    const saved = localStorage.getItem('tib_theme_light');
+    applyTheme(saved === '1');
+  </script>
+</body>
+</html>
