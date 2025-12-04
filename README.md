@@ -62,6 +62,14 @@ More projects → https://tibebukaleb.netlify.app
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
 
+
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg | width=40)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg | width=40)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg | width=40)
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg | width=40)
+
+
+
 ### ⚙️ Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
