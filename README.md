@@ -51,6 +51,7 @@ More projects → https://tibebukaleb.netlify.app
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
 
 ### 🎨 Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40"/>
@@ -59,11 +60,14 @@ More projects → https://tibebukaleb.netlify.app
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
 
 ### ⚙️ Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
 ### 🗄️ Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -81,7 +85,6 @@ More projects → https://tibebukaleb.netlify.app
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
 - ETL & ELT pipelines • Workflow automation • Stream processing • Data transformation
 
 ### 🛠️ Tools
@@ -105,11 +108,7 @@ More projects → https://tibebukaleb.netlify.app
 ---
 
 ## 🌐 Connect
-[Website](https://tibebukaleb.netlify.app)  
-[Email](mailto:wise.tibec@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/tibeb-dev)  
-[Instagram](https://instagram.com/wise.tibec)  
-[Discord](https://discord.gg/your-server-code)
+[Website](https://tibebukaleb.netlify.app) • [Email](mailto:wise.tibec@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tibeb-dev) • [Instagram](https://instagram.com/wise.tibec) • [Discord](https://discord.gg/your-server-code)
 
 ---
 
