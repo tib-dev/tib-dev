@@ -100,7 +100,8 @@ More projects → [Portfolio](https://tibebukaleb.netlify.app)
 ---
 
 ## 📊 GitHub Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical&count_private=true&cache_seconds=86400) 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical)
 
@@ -112,8 +113,12 @@ More projects → [Portfolio](https://tibebukaleb.netlify.app)
 ---
 
 ## 🌐 Connect
-[Website](https://tibebukaleb.netlify.app) • [Email](mailto:wise.tibec@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tibeb-dev) • [Instagram](https://instagram.com/wise.tibec) • [Discord](https://discord.gg/your-server-code)
 
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://tibebukaleb.netlify.app)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:wise.tibec@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue)](https://www.linkedin.com/in/tibeb-dev)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/wise.tibec)  
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/your-server-code)
 ---
 
 _“Code is like humor. When you have to explain it, it loses its impact.” — Cory House_
