@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=9B5CF5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tibeb;Full-Stack+Engineer;Cloud+%7C+Machine+Learning+%7C+DevOps;Building+Secure+%26+Scalable+Systems" alt="Typing Animation" />
 </p>
 
+![WakaTime](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/tib-dev?style=flat&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/tib-dev?style=flat&color=yellow)
+![Status](https://img.shields.io/badge/Developer-Active-brightgreen)
+![Location](https://img.shields.io/badge/From-Ethiopia-red)
+
+
 <!-- GitHub Actions Badge -->
 ![CI](https://github.com/tib-dev/tib-dev/actions/workflows/ci.yml/badge.svg)
 
