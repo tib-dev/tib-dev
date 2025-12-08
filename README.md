@@ -104,11 +104,6 @@ More projects → https://tibebukaleb.netlify.app
 
 ---
 
-## 🌐 Connect
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://tibebukaleb.netlify.app)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:wise.tibec@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue)](https://www.linkedin.com/in/tibeb-dev)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/wise.tibec)
 
 ## 🌐 Connect  
 [![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=flat&logo=netlify&logoColor=white)](https://tibebukaleb.netlify.app)
