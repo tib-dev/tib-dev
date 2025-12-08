@@ -110,6 +110,13 @@ More projects → https://tibebukaleb.netlify.app
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue)](https://www.linkedin.com/in/tibeb-dev)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/wise.tibec)
 
+## 🌐 Connect  
+[![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=flat&logo=netlify&logoColor=white)](https://tibebukaleb.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wise.tibec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tibeb-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wise.tibec)
+
+
 ---
 
 _“Code is like humor. When you try to explain it, it loses its spark.”_
