@@ -5,8 +5,6 @@
 
 ![WakaTime](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/tib-dev?style=flat&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/tib-dev?style=flat&color=yellow)
 ![Status](https://img.shields.io/badge/Developer-Active-brightgreen)
 
 
