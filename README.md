@@ -8,9 +8,6 @@
 ![Status](https://img.shields.io/badge/Developer-Active-brightgreen)
 
 
-<!-- GitHub Actions Badge -->
-![CI](https://github.com/tib-dev/tib-dev/actions/workflows/ci.yml/badge.svg)
-
 ---
 
 ## 🧭 About Me
