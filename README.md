@@ -108,7 +108,7 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 ### 📈 Coding Activity & Trends
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tib-dev&theme=radical&color=00ffad&hide_border=true&area=true&point=00ffad" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tib-dev&theme=radical&bg_color=1a1b27&color=ff00ad&line=ff00ad&point=ff00ad&hide_border=true" width="100%" />
 </p>
 
 ## 🌐 Connect  
