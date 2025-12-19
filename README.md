@@ -99,8 +99,8 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 ## 📊 GitHub Insights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tib-dev&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical)
 
 ---
 
