@@ -106,8 +106,7 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 ---
 
 ## 🏅 Trophy Wall
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tib-dev&theme=radical&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Tib-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical)
 ---
 
 
