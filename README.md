@@ -105,9 +105,15 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 
 ---
 
-## 🏅 Trophy Wall
-![Tib-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib-dev&show_icons=true&theme=radical)
----
+### 📈 Coding Activity & Trends
+
+![Tib-dev's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tib-dev&theme=radical&hide_border=true)
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tib-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 
 ## 🌐 Connect  
