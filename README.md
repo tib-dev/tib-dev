@@ -60,15 +60,40 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 
 ## 💻 Tools & Tech
 
-| **Cloud & DevOps** | **Frontend** | **Backend** |
-| :--- | :--- | :--- |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) | ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
-| <br/> | <br/> | <br/> |
-| **Databases** | **Machine Learning** | **Data Engineering** |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow) |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) ![sklearn](https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikitlearn) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark) |
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
+
+### **Backend**
+![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+
+### **Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+![sklearn](https://img.shields.io/badge/Sklearn-F7931E?logo=scikitlearn)
+
+### **Data Engineering**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark)
 
 ---
 
