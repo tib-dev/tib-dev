@@ -33,19 +33,30 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 
 ## 🚀 Highlighted Projects
 
-### **Amazon Clone**
-E-commerce with payments, auth, routing, and real workflows.  
-🔗 https://github.com/tib-dev/amazon-clone
+## 🚀 Highlighted Projects
 
-### **Education Management System**
-Manages attendance, roles, payments, and workflows.  
-🔗 https://ems-qsofti.netlify.app
+| **Credit Risk Model (End-to-End)** | **Car Insurance Predictive Modeling** |
+| :--- | :--- |
+| ![Risk](https://img.shields.io/badge/Credit_Risk-E31837?style=for-the-badge&logo=target&logoColor=white) | ![Insurance](https://img.shields.io/badge/Insurance_Analytics-0052CC?style=for-the-badge&logo=databricks&logoColor=white) |
+| A complete pipeline for building, deploying, and automating a credit risk engine to assess borrower reliability. | Analyzing historical data from AlphaCare (South Africa) to optimize premiums and identify low-risk segments. |
+| 🛠️ `Python` `Scikit-Learn` `MLOps` `Docker` | 🛠️ `Exploratory Data Analysis` `XGBoost` `Statistics` |
+| [**📂 View Project**](https://github.com/tib-dev/credit-risk-model) | [**📂 View Project**](https://github.com/tib-dev/Predictive-Modeling) |
 
-### **LinkedIn Automation Tool**
-Automates job actions, messaging, and engagement.  
-🔗 https://github.com/tib-dev/linkedin-automation
+<br />
 
-More projects → https://tibebukaleb.netlify.app
+| **Fintech Customer Experience** | **News Sentiment Price Predictor** |
+| :--- | :--- |
+| ![Fintech](https://img.shields.io/badge/Fintech_UX-00A361?style=for-the-badge&logo=google-analytics&logoColor=white) | ![Sentiment](https://img.shields.io/badge/Sentiment_Analysis-FFD700?style=for-the-badge&logo=natural-language-processing&logoColor=black) |
+| Comparative analytics for **CBE, BOA, and Dashen Bank** apps to drive data-led marketing strategies. | Predicting market price fluctuations by analyzing real-time news sentiment and financial headlines. |
+| 🛠️ `NLP` `Sentiment Analysis` `Pandas` | 🛠️ `Python` `TensorFlow` `API Integration` |
+| [**📂 View Project**](https://github.com/tib-dev/Fintech-App-Customer-Experience-Analytics) | [**📂 View Project**](https://github.com/tib-dev/Predicting-Price-Moves-with-News-Sentiment) |
+
+---
+
+### 🛠️ Core Competencies
+`Financial Data Science` • `Predictive Modeling` • `ML Automation` • `Fintech Analytics`
+
+**Explore more of my work → [tibebukaleb.netlify.app](https://tibebukaleb.netlify.app)**
 
 ---
 
