@@ -52,7 +52,7 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 ### 🛠️ Core Competencies
 `Financial Data Science` • `Predictive Modeling` • `ML Automation` • `Fintech Analytics`
 
-**Explore more → [tibebk.com](tps://www.linkedin.com/in/tibeb)**
+**Explore more → [tibebk.com](https://www.linkedin.com/in/tibeb)**
 
 ---
 
