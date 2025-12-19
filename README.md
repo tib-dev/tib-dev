@@ -2,6 +2,7 @@
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=9B5CF5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tibeb;Full-Stack+Engineer;Cloud+%7C+Machine+Learning+%7C+DevOps;Building+Secure+%26+Scalable+Systems" alt="Typing Animation" />
 </p>
+
 ![WakaTime](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet)
 ![Status](https://img.shields.io/badge/Developer-Active-brightgreen)
