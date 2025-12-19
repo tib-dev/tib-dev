@@ -31,7 +31,6 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 
 ---
 
-## 🚀 Highlighted Projects
 
 ## 🚀 Highlighted Projects
 
@@ -107,7 +106,7 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 ---
 
 ## 🏅 Trophy Wall
-![Trophies](https://github-profile-trophy.vercel.app/?username=tib-dev&theme=radical&no-bg=true&margin-w=10)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tib-dev&theme=radical&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
