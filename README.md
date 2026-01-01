@@ -43,9 +43,9 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 | **Fintech Customer Experience** | **News Sentiment Price Predictor** |
 | :--- | :--- |
 | ![Fintech](https://img.shields.io/badge/Fintech_UX-00A361?style=for-the-badge&logo=google-analytics&logoColor=white) | ![Sentiment](https://img.shields.io/badge/Sentiment_Analysis-FFD700?style=for-the-badge&logo=natural-language-processing&logoColor=black) |
-| Comparative analytics for **CBE, BOA, and Dashen Bank** apps to drive data-led marketing strategies. | Predicting market price fluctuations by analyzing real-time news sentiment and financial headlines. |
-| 🛠️ `NLP` `Sentiment Analysis` `Pandas` | 🛠️ `Python` `TensorFlow` `API Integration` |
-| [**📂 View Project**](https://github.com/tib-dev/Fintech-App-Customer-Experience-Analytics) | [**📂 View Project**](https://github.com/tib-dev/Predicting-Price-Moves-with-News-Sentiment) |
+| Comparative analytics for **CBE, BOA, and Dashen Bank** apps to drive data-led marketing strategies. | Improved detection of fraud cases for e-commerce and bank transactions. |
+| 🛠️ `NLP` `Sentiment Analysis` `Pandas` | 🛠️ `Python` `Sklearn` `mlflow` `shap` `xgboost`|
+| [**📂 View Project**](https://github.com/tib-dev/Fintech-App-Customer-Experience-Analytics) | [**📂 View Project**](https://github.com/tib-dev/fraud-detection) |
 
 ---
 
