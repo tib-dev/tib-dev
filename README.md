@@ -31,29 +31,28 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 
 ## 🚀 Highlighted Projects
 
-| **Credit Risk Engine** | **Insurance Premium Optimizer** |
+| <div align="center">**Credit Risk Engine**</div> | <div align="center">**Insurance Premium Optimizer**</div> |
 | :--- | :--- |
-| ![Risk](https://img.shields.io/badge/Credit_Risk-E31837?style=for-the-badge&logo=target&logoColor=white) | ![Insurance](https://img.shields.io/badge/Insurance_Analytics-0052CC?style=for-the-badge&logo=databricks&logoColor=white) |
-| **Deployment:** An end-to-end pipeline for automating borrower reliability assessments and credit scoring. | **Analytics:** Statistical modeling of AlphaCare (SA) historical data to optimize premiums and risk segmentation. |
-| 🛠️ `MLOps` `Scikit-Learn` `Docker` `Python` | 🛠️ `XGBoost` `Statistical Inference` `EDA` |
-| [**📂 View Repository**](https://github.com/tib-dev/credit-risk-model) | [**📂 View Repository**](https://github.com/tib-dev/Predictive-Modeling) |
+| <p align="center">![Risk](https://img.shields.io/badge/Risk-E31837?style=for-the-badge&logo=target&logoColor=white)</p> | <p align="center">![Insurance](https://img.shields.io/badge/Insurance-0052CC?style=for-the-badge&logo=databricks&logoColor=white)</p> |
+| **End-to-End Pipeline:** Automated assessment of borrower reliability through a complete, production-ready ML model. | **Actuarial Analytics:** Statistical modeling for AlphaCare to optimize premiums and identify low-risk market segments. |
+| <div align="center">🛠️ `MLOps` `Scikit-Learn` `Docker`</div> | <div align="center">🛠️ `XGBoost` `Statistics` `EDA`</div> |
+| <p align="center">[**📂 View Repository**](https://github.com/tib-dev/credit-risk-model)</p> | <p align="center">[**📂 View Repository**](https://github.com/tib-dev/Predictive-Modeling)</p> |
 
 <br />
 
-| **Fintech Market Intelligence** | **Fraud Detection System** |
+| <div align="center">**Fintech Market Intelligence**</div> | <div align="center">**Fraud Detection System**</div> |
 | :--- | :--- |
-| ![Fintech](https://img.shields.io/badge/Fintech_UX-00A361?style=for-the-badge&logo=google-analytics&logoColor=white) | ![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-FFD700?style=for-the-badge&logo=shield&logoColor=black) |
-| **NLP:** Comparative sentiment analysis for **CBE, BOA, and Dashen Bank** apps to drive data-led UX strategies. | **Security:** Real-time fraud detection for e-commerce using explainable AI (SHAP) and MLflow tracking. |
-| 🛠️ `NLP` `Sentiment Analysis` `Pandas` | 🛠️ `MLflow` `XGBoost` `SHAP` `Sklearn` |
-| [**📂 View Repository**](https://github.com/tib-dev/Fintech-App-Customer-Experience-Analytics) | [**📂 View Repository**](https://github.com/tib-dev/fraud-detection) |
+| <p align="center">![Fintech](https://img.shields.io/badge/Fintech-00A361?style=for-the-badge&logo=google-analytics&logoColor=white)</p> | <p align="center">![Fraud](https://img.shields.io/badge/Fraud-FFD700?style=for-the-badge&logo=shield&logoColor=black)</p> |
+| **UX Analytics:** Comparative NLP analysis for major Ethiopian banks (CBE, BOA) to drive data-led marketing strategy. | **Secure Finance:** Advanced fraud detection for transactions using explainable AI (SHAP) and experiment tracking. |
+| <div align="center">🛠️ `NLP` `Sentiment` `Pandas`</div> | <div align="center">🛠️ `MLflow` `XGBoost` `SHAP`</div> |
+| <p align="center">[**📂 View Repository**](https://github.com/tib-dev/Fintech-App-Customer-Experience-Analytics)</p> | <p align="center">[**📂 View Repository**](https://github.com/tib-dev/fraud-detection)</p> |
 
 ---
 
 ### 🛠️ Core Competencies
-`Financial Data Science` • `Predictive Modeling` • `ML Automation` • `Fintech Analytics` • `Explainable AI`
+`Financial Data Science` • `Predictive Modeling` • `ML Automation` • `Fintech Analytics`
 
 **Explore more → [tibebk.com](https://www.linkedin.com/in/tibeb)**
----
 
 ## 💻 Tools & Tech
 
