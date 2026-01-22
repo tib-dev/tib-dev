@@ -88,8 +88,10 @@ I build backend systems, cloud workflows, and machine learning tools that solve 
 
 ### **Data Engineering**
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark)
+![Data Warehouse](https://img.shields.io/badge/Warehouse-4B0082?logo=amazon-aws)
+![dbt](https://img.shields.io/badge/dbt-FF694F?logo=dbt-labs) 
+![Dagster](https://img.shields.io/badge/Dagster-017CEE?logo=apache-dagster) 
 
 ---
 
