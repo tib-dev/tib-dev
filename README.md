@@ -5,7 +5,7 @@
 
 
 ![![WakaTime Since](https://img.shields.io/badge/WakaTime-Since%20Nov--27%202025-0052cf?style=flat&logo=wakatime)](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)
-![WakaTime Since](https://img.shields.io/badge/WakaTime-Since%20Nov--27%202025-0052cf?style=flat&logo=wakatime)
+[![WakaTime Since](https://img.shields.io/badge/WakaTime-Since%20Nov--27%202025-0052cf?style=flat&logo=wakatime)](https://wakatime.com/user/814d53b7-5a26-484d-b69b-398bc16eda92) [![WakaTime Stats](https://wakatime.com/badge/user/814d53b7-5a26-484d-b69b-398bc16eda92.svg)](https://wakatime.com/user/814d53b7-5a26-484d-b69b-398bc16eda92)
 ![Profile Views](https://komarev.com/ghpvc/?username=tib-dev&color=blueviolet)
 ![Status](https://img.shields.io/badge/Developer-Active-brightgreen)
 
